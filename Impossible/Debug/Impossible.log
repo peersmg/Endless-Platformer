@@ -1,0 +1,126 @@
+﻿Build started 25/09/2016 15:49:31.
+     1>Project "D:\Projects\GameEngine Projects\Impossible\Impossible\Impossible.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt BgBlock.cpp block.cpp camera.cpp color.cpp DestroyBlock.cpp entities.cpp ErrorLogger.cpp gamecode.cpp EndlessManager.cpp GameObject.cpp GameOver.cpp gametimer.cpp KeyboardBuffer.cpp MainMenu.cpp mydrawengine.cpp myinputs.cpp mysoundengine.cpp ObjectManager.cpp player.cpp Shapes.cpp textObj.cpp vector2D.cpp wall.cpp wincode.cpp
+         wincode.cpp
+         wall.cpp
+         vector2D.cpp
+         textObj.cpp
+     1>d:\projects\gameengine projects\impossible\impossible\textobj.cpp(59): warning C4305: '=' : truncation from 'double' to 'float'
+     1>d:\projects\gameengine projects\impossible\impossible\textobj.cpp(63): warning C4305: '=' : truncation from 'double' to 'float'
+     1>d:\projects\gameengine projects\impossible\impossible\textobj.cpp(75): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+         Shapes.cpp
+         player.cpp
+         ObjectManager.cpp
+         mysoundengine.cpp
+         myinputs.cpp
+         mydrawengine.cpp
+     1>d:\projects\gameengine projects\impossible\impossible\mydrawengine.cpp(821): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\projects\gameengine projects\impossible\impossible\mydrawengine.cpp(829): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>d:\projects\gameengine projects\impossible\impossible\mydrawengine.cpp(830): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>d:\projects\gameengine projects\impossible\impossible\mydrawengine.cpp(843): warning C4244: 'initializing' : conversion from 'LONG' to 'float', possible loss of data
+     1>d:\projects\gameengine projects\impossible\impossible\mydrawengine.cpp(844): warning C4244: 'initializing' : conversion from 'LONG' to 'float', possible loss of data
+     1>d:\projects\gameengine projects\impossible\impossible\mydrawengine.cpp(851): warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+     1>d:\projects\gameengine projects\impossible\impossible\mydrawengine.cpp(852): warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+     1>d:\projects\gameengine projects\impossible\impossible\mydrawengine.cpp(855): warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+     1>d:\projects\gameengine projects\impossible\impossible\mydrawengine.cpp(856): warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+     1>d:\projects\gameengine projects\impossible\impossible\mydrawengine.cpp(859): warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+     1>d:\projects\gameengine projects\impossible\impossible\mydrawengine.cpp(860): warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+     1>d:\projects\gameengine projects\impossible\impossible\mydrawengine.cpp(863): warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+     1>d:\projects\gameengine projects\impossible\impossible\mydrawengine.cpp(864): warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+     1>d:\projects\gameengine projects\impossible\impossible\mydrawengine.cpp(865): warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+     1>d:\projects\gameengine projects\impossible\impossible\mydrawengine.cpp(866): warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+     1>d:\projects\gameengine projects\impossible\impossible\mydrawengine.cpp(869): warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+     1>d:\projects\gameengine projects\impossible\impossible\mydrawengine.cpp(870): warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+     1>d:\projects\gameengine projects\impossible\impossible\mydrawengine.cpp(871): warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+     1>d:\projects\gameengine projects\impossible\impossible\mydrawengine.cpp(872): warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+     1>d:\projects\gameengine projects\impossible\impossible\mydrawengine.cpp(875): warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+     1>d:\projects\gameengine projects\impossible\impossible\mydrawengine.cpp(876): warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+     1>d:\projects\gameengine projects\impossible\impossible\mydrawengine.cpp(879): warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+     1>d:\projects\gameengine projects\impossible\impossible\mydrawengine.cpp(880): warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+     1>d:\projects\gameengine projects\impossible\impossible\mydrawengine.cpp(881): warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+     1>d:\projects\gameengine projects\impossible\impossible\mydrawengine.cpp(882): warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+     1>d:\projects\gameengine projects\impossible\impossible\mydrawengine.cpp(885): warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+     1>d:\projects\gameengine projects\impossible\impossible\mydrawengine.cpp(886): warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+     1>d:\projects\gameengine projects\impossible\impossible\mydrawengine.cpp(887): warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+     1>d:\projects\gameengine projects\impossible\impossible\mydrawengine.cpp(888): warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+     1>d:\projects\gameengine projects\impossible\impossible\mydrawengine.cpp(898): warning C4244: 'argument' : conversion from 'double' to 'FLOAT', possible loss of data
+         MainMenu.cpp
+     1>d:\projects\gameengine projects\impossible\impossible\mainmenu.cpp(25): warning C4305: '=' : truncation from 'double' to 'float'
+     1>d:\projects\gameengine projects\impossible\impossible\mainmenu.cpp(86): warning C4305: '-=' : truncation from 'double' to 'float'
+     1>d:\projects\gameengine projects\impossible\impossible\mainmenu.cpp(94): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>d:\projects\gameengine projects\impossible\impossible\mainmenu.cpp(104): warning C4305: '=' : truncation from 'double' to 'float'
+     1>d:\projects\gameengine projects\impossible\impossible\mainmenu.cpp(108): warning C4305: '=' : truncation from 'double' to 'float'
+     1>d:\projects\gameengine projects\impossible\impossible\mainmenu.cpp(169): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>d:\projects\gameengine projects\impossible\impossible\mainmenu.cpp(169): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>d:\projects\gameengine projects\impossible\impossible\mainmenu.cpp(170): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>d:\projects\gameengine projects\impossible\impossible\mainmenu.cpp(174): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>d:\projects\gameengine projects\impossible\impossible\mainmenu.cpp(175): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>d:\projects\gameengine projects\impossible\impossible\mainmenu.cpp(175): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>d:\projects\gameengine projects\impossible\impossible\mainmenu.cpp(180): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>d:\projects\gameengine projects\impossible\impossible\mainmenu.cpp(181): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>d:\projects\gameengine projects\impossible\impossible\mainmenu.cpp(186): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>d:\projects\gameengine projects\impossible\impossible\mainmenu.cpp(195): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>d:\projects\gameengine projects\impossible\impossible\mainmenu.cpp(204): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+         KeyboardBuffer.cpp
+         gametimer.cpp
+         GameOver.cpp
+         GameObject.cpp
+         EndlessManager.cpp
+     1>d:\projects\gameengine projects\impossible\impossible\endlessmanager.cpp(100): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>d:\projects\gameengine projects\impossible\impossible\endlessmanager.cpp(201): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>d:\projects\gameengine projects\impossible\impossible\endlessmanager.cpp(341): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\projects\gameengine projects\impossible\impossible\endlessmanager.cpp(349): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\projects\gameengine projects\impossible\impossible\endlessmanager.cpp(374): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\projects\gameengine projects\impossible\impossible\endlessmanager.cpp(382): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\projects\gameengine projects\impossible\impossible\endlessmanager.cpp(397): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>d:\projects\gameengine projects\impossible\impossible\endlessmanager.cpp(403): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\projects\gameengine projects\impossible\impossible\endlessmanager.cpp(411): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\projects\gameengine projects\impossible\impossible\endlessmanager.cpp(435): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>d:\projects\gameengine projects\impossible\impossible\endlessmanager.cpp(441): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\projects\gameengine projects\impossible\impossible\endlessmanager.cpp(449): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+         gamecode.cpp
+         ErrorLogger.cpp
+         entities.cpp
+         DestroyBlock.cpp
+         Generating Code...
+         Compiling...
+         color.cpp
+         camera.cpp
+         block.cpp
+         BgBlock.cpp
+         Generating Code...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Debug\Impossible.res" Impossible.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Projects\GameEngine Projects\Impossible\Debug\Impossible.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Projects\GameEngine Projects\Impossible\Debug\Impossible.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Projects\GameEngine Projects\Impossible\Debug\Impossible.lib" /MACHINE:X86 Debug\Impossible.res
+         Debug\BgBlock.obj
+         Debug\block.obj
+         Debug\camera.obj
+         Debug\color.obj
+         Debug\DestroyBlock.obj
+         Debug\entities.obj
+         Debug\ErrorLogger.obj
+         Debug\gamecode.obj
+         Debug\EndlessManager.obj
+         Debug\GameObject.obj
+         Debug\GameOver.obj
+         Debug\gametimer.obj
+         Debug\KeyboardBuffer.obj
+         Debug\MainMenu.obj
+         Debug\mydrawengine.obj
+         Debug\myinputs.obj
+         Debug\mysoundengine.obj
+         Debug\ObjectManager.obj
+         Debug\player.obj
+         Debug\Shapes.obj
+         Debug\textObj.obj
+         Debug\vector2D.obj
+         Debug\wall.obj
+         Debug\wincode.obj
+         Impossible.vcxproj -> D:\Projects\GameEngine Projects\Impossible\Debug\Impossible.exe
+     1>Done Building Project "D:\Projects\GameEngine Projects\Impossible\Impossible\Impossible.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:15.66
